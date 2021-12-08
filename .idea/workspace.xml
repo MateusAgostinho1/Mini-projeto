@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4029e148-24cf-4824-aa29-c0df51dbaa7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="21hZCeYdqrjSpIUx0GmLm2b2QdI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4029e148-24cf-4824-aa29-c0df51dbaa7f" name="Default Changelist" comment="" />
+      <created>1638395153404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638395153404</updated>
+      <workItem from="1638395154638" duration="9972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="167" key="run.anything.popup" timestamp="1638481790857">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state x="339" y="167" key="run.anything.popup/0.24.1366.699@0.24.1366.699" timestamp="1638481790857" />
+    <state x="346" y="44" width="672" height="678" key="search.everywhere.popup" timestamp="1638470494520">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state x="346" y="44" width="672" height="678" key="search.everywhere.popup/0.24.1366.699@0.24.1366.699" timestamp="1638470494520" />
+  </component>
+</project>
